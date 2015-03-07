@@ -1,0 +1,70 @@
+#header {
+    text-align: right;
+    padding-top: 15px;
+    line-height: 25px;
+}
+
+#header a {
+    color: black;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+#header a:hover {
+    color: blue;
+}
+
+#header a.more-product {
+    color: white;
+    display: inline-block;
+    background: #38f;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#content {
+    margin-top: 70px;
+    text-align: center;
+}
+
+#content img {
+    width: 270px;
+    height: 129px;
+}
+
+#content div {
+    line-height: 35px;
+}
+
+#content div input {
+    width: 526px;
+    height: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+#content div a {
+    background: #3385ff;
+    display: inline-block;
+    text-decoration: none;
+    width: 100px;
+    height: 35px;
+    color: white;
+    font-size: 15px;
+}
+
+#content div input:focus {
+    outline: 1px solid red;
+}
+
+#footer {
+    margin-top: 150px;
+    text-align: center;
+}
+
+#footer a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
